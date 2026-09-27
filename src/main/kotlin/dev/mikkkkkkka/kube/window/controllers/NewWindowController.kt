@@ -1,4 +1,4 @@
-package dev.mikkkkkkka.kube
+package dev.mikkkkkkka.kube.window.controllers
 
 import org.lwjgl.Version
 import org.lwjgl.glfw.Callbacks.glfwFreeCallbacks
